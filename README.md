@@ -1,6 +1,8 @@
 #hello-world
 ////////////////////////////////////////////////////////////////////////////////
+
 Hi GitHub :)
+
 I first experienced programming during my studies for an Electricity and
 electronics engineering degree in an "Intro to computers and Assembler
 language" course in 2017.Since then I also completed "Switching and Digital
